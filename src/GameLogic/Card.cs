@@ -49,7 +49,6 @@ namespace CardGames.GameLogic
     {
         private Rank _rank;
         private Suit _suit;
-	private Rank _rank2;
         private bool _faceUp;
         
         /// <summary>
